@@ -2,9 +2,9 @@
 
 Source: The BNGRC (Madagascar National Disaster Management Agency) 
 
-This table adds provinces to the top level of the BNGRC lookup table which uses 4-level administrative boundaries.
+This table adds provinces to the top level of the BNGRC lookup table which uses 4-level administrative divisions.
 
-Administrative Boundaries: 
+Administrative Divisions: 
 - Level 1 (Provinces)  
 - Level 2 (Regions)
 - Level 3 (Districts)
